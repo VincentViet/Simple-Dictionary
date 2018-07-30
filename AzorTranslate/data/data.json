@@ -1,0 +1,10 @@
+{
+    "en-vi":{
+        "dog": "con chó",
+        "cat": "con mèo"
+    },
+    "vi-en":{
+        "con chó": "dog",
+        "con mèo": "cat"
+    }
+}

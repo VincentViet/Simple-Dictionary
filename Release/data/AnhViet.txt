@@ -1,0 +1,20 @@
+{
+ "en-vi":{
+  "baseball":"môn bóng chày",
+  "cat":"con mèo",
+  "computer":"máy vi tính",
+  "desk":"bàn làm việc",
+  "dog":"con chó",
+  "elephant":"con voi",
+  "leaf":"chiếc lá"
+ },
+ "vi-en":{
+  "bàn làm việc":"desk",
+  "chiếc lá":"leaf",
+  "con chó":"dog",
+  "con mèo":"cat",
+  "con voi":"elephant",
+  "máy vi tính":"computer",
+  "môn bóng chày":"baseball"
+ }
+}
